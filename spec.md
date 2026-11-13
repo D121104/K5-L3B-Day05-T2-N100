@@ -1,6 +1,6 @@
 # Bài nộp LAB5 — [T2] · Nhóm [N100]
 
-## Thành viên nhóm (1 người)
+## Thành viên nhóm
 
 
 **Lớp:** L3B · **Bàn / zone:** E305 · **Track:** T2
